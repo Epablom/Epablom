@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=epablom&label=Profile%20views&color=0e75b6&style=flat" alt="epablom" /> </p
 
-- 🔭 I’m currently on an internship at [**Diusframi**](https://www.diusframi.es/)
-- 🌱 I’m currently studying **Android & Jetpack Compose**
+- 🌱 I’m currently studying at **Universidad CEU San Pablo**
 
 <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=epablom" alt="epablom" /></a> </p>
